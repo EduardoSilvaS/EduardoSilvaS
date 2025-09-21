@@ -53,9 +53,10 @@
 <br>
 
 ## 📊 My GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoSilvaS&show_icons=true&theme=date_night&include_all_commits=true&count_private=true" alt="Eduardo's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilvaS&layout=compact&langs_count=8&theme=date_night" alt="Eduardo's Top Languages" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=EduardoSilvaS&show_icons=true&theme=date_night&include_all_commits=true&count_private=true" alt="Eduardo's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilvaS&layout=compact&langs_count=8&theme=date_night" alt="Eduardo's Top Languages" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoSilvaS&theme=date_night&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=835" alt="Streak" width="100%">
 </p>
 
 ## 📫 How to reach me
