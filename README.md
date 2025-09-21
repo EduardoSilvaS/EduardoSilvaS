@@ -1,4 +1,4 @@
-## 🥳 Hi there, I'm Eduardo 
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Eduardo%20Silva&textBg=false&fontAlign=50&fontAlignY=50&animation=fadeIn&strokeWidth=0&rotate=0&desc=Computer%20Engineering&descAlignY=63&section=header&stroke=0)
 
 ### 👨‍💻 About me
   I'm a passionate and dedicated **Computer Engineering student** at PUC-Campinas with a strong foundation in Python and its libraries. I am enthusiastic about technology and an eager self-learner, always looking to deepen my knowledge and apply new market technologies.
